@@ -4,4 +4,5 @@ This is the rainbow poem.
 3.red
 4.blue
 5.orange
+6.Pink
 and the unicorn.
